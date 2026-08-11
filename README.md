@@ -1,5 +1,10 @@
 # Data Engineering Mentorship
 
+![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineering-red)
+![PySpark](https://img.shields.io/badge/PySpark-Apache%20Spark-orange)
+![SQL](https://img.shields.io/badge/SQL-Data-blue)
+![Mentorship](https://img.shields.io/badge/Focus-Engineering%20Thinking-green)
+
 A practical Data Engineering mentorship program focused on problem solving, architecture, design trade-offs, implementation, and building scalable and reusable data platforms through real-world exercises.
 
 ## Goal
