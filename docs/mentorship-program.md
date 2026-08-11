@@ -1,10 +1,5 @@
 # Data Engineering Mentorship Program
 
-![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineering-red)
-![PySpark](https://img.shields.io/badge/PySpark-Apache%20Spark-orange)
-![SQL](https://img.shields.io/badge/SQL-Data-blue)
-![Mentorship](https://img.shields.io/badge/Focus-Engineering%20Thinking-green)
-
 ## Goal
 
 Develop a stronger and more structured approach to solving data engineering problems, from understanding a problem to designing and implementing a solution.
